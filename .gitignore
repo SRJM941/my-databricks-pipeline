@@ -1,0 +1,15 @@
+notes/
+.databricks/
+.vscode/
+.venv/
+.claude/
+.pytest_cache/
+dist/
+build/
+coverage_reports/
+src/template.egg-info/
+CLAUDE.md
+*.pyc
+*.lock
+.coverage*
+resources/jobs.yml
