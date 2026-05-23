@@ -5,7 +5,7 @@
 ![Databricks](https://img.shields.io/badge/platform-Databricks-orange?logo=databricks)
 ![PySpark](https://img.shields.io/badge/pyspark-4.1+-brightgreen?logo=apache-spark)
 ![CI/CD](https://img.shields.io/github/actions/workflow/status/andre-salvati/databricks-template/.github/workflows/onpush.yml)
-![Stars](https://img.shields.io/github/stars/andre-salvati/databricks-template?style=social)
+
 
 ## 🚀 Overview
 
